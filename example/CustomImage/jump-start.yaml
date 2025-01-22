@@ -1,0 +1,13 @@
+---
+description: |
+  A React component to display an Image.
+tags:
+  - react
+  - next
+  - image
+defaultDir: components/elements/CustomImage
+mainFile: index.js
+preview:
+  template: react
+  dependencies:
+    react-resize-detector: "10"
